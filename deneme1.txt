@@ -1,1 +1,2 @@
 Merhaba GitHub
+Bu satır Github'da eklendi.
